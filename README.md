@@ -18,7 +18,6 @@
 
 ## Indice
 
-- [Sobre](#sobre)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Requisitos do Software](#requisitos-do-software)
 - [Análise](#análise)
@@ -44,35 +43,35 @@ Os passos incluem a preparação do ambiente FreeDOS, a escrita do código Assem
 Para mais detalhes, siga as instruções detalhadas nas seções abaixo para replicar e executar o código "Hello, World!" em seu próprio ambiente FreeDOS.
 
 
-## 1. Requisitos do Software
+## Requisitos do Software
 **Descrição:** O software deve exibir a mensagem "Hello, World!" na tela.  
 **Plataforma alvo:** FreeDOS  
 **Linguagem de Programação:** Assembly x86
 
-## 2. Análise
+## Análise
 **Objetivo:** Identificar a plataforma alvo e a linguagem de programação, e definir o comportamento esperado do software (exibir a mensagem "Hello, World!").
 
-## 3. Design
+## Design
 **Tarefas:**
 - Escrever o código assembly para exibir a mensagem na tela.
 - Planejar como o código será organizado e estruturado.
 
-## 4. Implementação
+## Implementação
 **Atividades:**
 - Escrever o código assembly conforme o design.
 - Testar o código para garantir que a mensagem seja exibida corretamente.
 
-## 5. Testes
+## Testes
 **Procedimentos:**
 - Executar o código no FreeDOS no [JS/Linux](https://bellard.org/jslinux/) para verificar se a mensagem é exibida corretamente.
 - Realizar testes adicionais para garantir o funcionamento adequado do software.
 
-## 6. Integração
+## Integração
 **Etapas:**
 - Preparar o software para implantação, se necessário.
 - Documentar o processo de instalação ou execução.
 
-## 7. Manutenção
+## Manutenção
 **Ações:**
 - Fornecer suporte contínuo ao software, se necessário.
 - Corrigir bugs ou adicionar novos recursos conforme necessário.
