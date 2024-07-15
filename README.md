@@ -16,6 +16,23 @@
 
 ---
 
+## Indice
+
+- [Sobre](#sobre)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Requisitos do Software](#requisitos-do-software)
+- [Análise](#análise)
+- [Design](#design)
+- [Implementação](#implementação)
+- [Testes](#testes)
+- [Integração](#integração)
+- [Manutenção](#manutenção)
+- [Código Assembly "Hello, World!"](#código-assembly-hello-world)
+- [Apêndice](#apêndice)
+- [Licença](#licença)
+- [Agradecimentos](#agradecimentos)
+
+
 ## Descrição do Projeto
 
 Este projeto exemplifica o desenvolvimento de um programa simples em Assembly x86 para o sistema operacional FreeDOS, seguindo o modelo de desenvolvimento cascata. O objetivo do software é exibir a mensagem "Hello, World!" na tela. Este README fornece uma visão geral do processo de desenvolvimento, desde a análise e design até a implementação, testes e manutenção do software.
